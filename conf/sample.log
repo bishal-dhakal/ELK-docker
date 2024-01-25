@@ -1,0 +1,3 @@
+2024-01-24 12:00:00 INFO - This is a sample log message 1
+2024-01-24 12:05:00 ERROR - Something went wrong
+2024-01-24 12:10:00 INFO - Another sample log message 2
